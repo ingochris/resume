@@ -9,4 +9,5 @@
 |  CYB2004  | COBIT  | Cybrary  |  |
 |  CYB2008  | Microsoft SharePoint  | Cybrary |  |
 |  M101P | MongoDB Python Development  | MongoDB University |  |
+|  SL1060 | SQL Fundamentals | SoloLearn  |  |
 |  SL1073 | Python 3 Development | SoloLearn  |  |
