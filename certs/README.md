@@ -1,6 +1,7 @@
 |  Code  | Name  | Authority  | License |
 |---|---|---|---|
 |  CS101JS | JavaScript Image Manipulation  | Stanford University (Langunita) |  |
+|  CS145SQL | SQL Databases  | Stanford University (Langunita) |  |
 |  CYB1000 | CompTIA A+  | Cybrary  |  |
 |  CYB1003  | HIPAA Training  | Cybrary |  |
 |  CYB1006 | ITIL Foundation  | Cybrary |  |
