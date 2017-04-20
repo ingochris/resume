@@ -1,7 +1,15 @@
 |  Code  | Name  | Authority  | License |
 |---|---|---|---|
-|  CS101JS | JavaScript Image Manipulation  | Stanford University (Langunita) |  |
-|  CS145SQL | SQL Databases  | Stanford University (Langunita) |  |
+|  CS101-SP | Computer Science in JS  | Stanford University |  |
+|  CS106A | Programming Methodology  | Stanford University |  |
+|  CS106B | Programming Abstraction  | Stanford University |  |
+|  CS107 | Programming Paradigms  | Stanford University |  |
+|  CS145 | Relational Databases: SQL  | Stanford University |  |
+|  CS154 | Automata and Complexity Theory  | Stanford University |  |
+|  CS161 | Design and Analysis of Algorithms | Stanford University |  |
+|  CS223A | Robotics | Stanford University |  |
+|  CS229 | Machine Learning | Stanford University |  |
+|  CS236 | Mining Massive Datasets | Stanford University |  |
 |  CYB1000 | CompTIA A+  | Cybrary  |  |
 |  CYB1003  | HIPAA Training  | Cybrary |  |
 |  CYB1006 | ITIL Foundation  | Cybrary |  |
