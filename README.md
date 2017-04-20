@@ -1,5 +1,4 @@
-# GENERAL BIO 🖖
-https://linkedin.com/in/ingochris
+# GENERAL BIO 🖖 https://linkedin.com/in/ingochris
 
 Christopher is a software engineer who entered the tech scene through the hair-raising vector of penetration testing. 
 
