@@ -8,8 +8,10 @@
 |  CS154 | Automata and Complexity Theory  | Stanford University |  |
 |  CS161 | Design and Analysis of Algorithms | Stanford University |  |
 |  CS223A | Robotics | Stanford University |  |
+|  CS228 | PRobabilistic Graphical Models | Stanford University |  |
 |  CS229 | Machine Learning | Stanford University |  |
 |  CS236 | Mining Massive Datasets | Stanford University |  |
+|  CS255 | Cryptography | Stanford University |  |
 |  CYB1000 | CompTIA A+  | Cybrary  |  |
 |  CYB1003  | HIPAA Training  | Cybrary |  |
 |  CYB1006 | ITIL Foundation  | Cybrary |  |
