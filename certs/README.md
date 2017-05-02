@@ -1,5 +1,15 @@
 |  Code  | Name  | Authority  | License |
 |---|---|---|---|
+|  CYB1000 | CompTIA A+  | Cybrary  |  |
+|  CYB1003  | HIPAA Training  | Cybrary |  |
+|  CYB1006 | ITIL Foundation  | Cybrary |  |
+|  CYB1007  | CompTIA Linux+  | Cybrary |  |
+|  CYB1009  | CompTIA Security+  | Cybrary |  |
+|  CYB2004  | COBIT  | Cybrary  |  |
+|  CYB2008  | Microsoft SharePoint  | Cybrary |  |
+|  M101P | MongoDB Python Development  | MongoDB University |  |
+|  SL1060 | SQL Fundamentals | SoloLearn  |  |
+|  SL1073 | Python 3 Development | SoloLearn  |  |
 |  CS101-SP | Computer Science in JS  | Stanford University |  |
 |  CS106A | Programming Methodology  | Stanford University |  |
 |  CS106B | Programming Abstraction  | Stanford University |  |
@@ -12,13 +22,3 @@
 |  CS229 | Machine Learning | Stanford University |  |
 |  CS236 | Mining Massive Datasets | Stanford University |  |
 |  CS255 | Cryptography | Stanford University |  |
-|  CYB1000 | CompTIA A+  | Cybrary  |  |
-|  CYB1003  | HIPAA Training  | Cybrary |  |
-|  CYB1006 | ITIL Foundation  | Cybrary |  |
-|  CYB1007  | CompTIA Linux+  | Cybrary |  |
-|  CYB1009  | CompTIA Security+  | Cybrary |  |
-|  CYB2004  | COBIT  | Cybrary  |  |
-|  CYB2008  | Microsoft SharePoint  | Cybrary |  |
-|  M101P | MongoDB Python Development  | MongoDB University |  |
-|  SL1060 | SQL Fundamentals | SoloLearn  |  |
-|  SL1073 | Python 3 Development | SoloLearn  |  |
