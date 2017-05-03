@@ -1,4 +1,4 @@
-|  Section  | Title  | Authority  | License |
+|  Section  | Title  | Authority  | Status |
 |---|---|---|---|
 |  CYB1000 | CompTIA A+  | Cybrary  | ✔️ |
 |  CYB1003  | HIPAA Training  | Cybrary | ✔️ |
@@ -11,6 +11,7 @@
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
 |  SL1068 | Java Development | SoloLearn  | ⏳ |
 |  SL1073 | Python 3 Development | SoloLearn  | ✔️ |
+|  CS001U | Practical UNIX  | Stanford University | ✔️ |
 |  CS101-SP | Computer Science in JS  | Stanford University | ✔️ |
 |  CS106A | Programming Methodology  | Stanford University | ⏳ |
 |  CS106B | Programming Abstraction  | Stanford University |  |
