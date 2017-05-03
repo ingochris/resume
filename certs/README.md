@@ -12,7 +12,7 @@
 |  SL1068 | Java Development | SoloLearn  | ⏳ |
 |  SL1073 | Python 3 Development | SoloLearn  | ✔️ |
 |  CS101-SP | Computer Science in JS  | Stanford University | ✔️ |
-|  CS106A | Programming Methodology  | Stanford University |  |
+|  CS106A | Programming Methodology  | Stanford University | ⏳ |
 |  CS106B | Programming Abstraction  | Stanford University |  |
 |  CS107 | Programming Paradigms  | Stanford University |  |
 |  CS145 | SQL Relational Databases  | Stanford University | ✔️ |
