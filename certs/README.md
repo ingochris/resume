@@ -9,7 +9,7 @@
 |  CYB2008  | Microsoft SharePoint  | Cybrary | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
-|  SL1068 | Java Development | SoloLearn  |  |
+|  SL1068 | Java Development | SoloLearn  | ⏳ |
 |  SL1073 | Python 3 Development | SoloLearn  | ✔️ |
 |  CS101-SP | Computer Science in JS  | Stanford University | ✔️ |
 |  CS106A | Programming Methodology  | Stanford University |  |
@@ -17,9 +17,9 @@
 |  CS107 | Programming Paradigms  | Stanford University |  |
 |  CS145 | SQL Relational Databases  | Stanford University | ✔️ |
 |  CS154 | Automata and Complexity Theory  | Stanford University |  |
-|  CS161 | Algorithms: Design and Analysis | Stanford University |  |
+|  CS161 | Algorithms: Design and Analysis | Stanford University | ⏳ |
 |  CS223A | Robotics | Stanford University |  |
 |  CS228 | Probabilistic Graphical Models | Stanford University |  |
 |  CS229 | Machine Learning | Stanford University |  |
 |  CS236 | Mining Massive Datasets | Stanford University |  |
-|  CS255 | Cryptography | Stanford University |  |
+|  CS255 | Cryptography | Stanford University | ⏳ |
