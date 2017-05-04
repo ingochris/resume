@@ -17,6 +17,7 @@
 |  CS106B | Programming Abstraction  | Stanford University |  |
 |  CS107 | Programming Paradigms  | Stanford University |  |
 |  CS145 | SQL Relational Databases  | Stanford University | ✔️ |
+|  CS147 | Human Computer Interaction Design  | Stanford University | ⏳ |
 |  CS154 | Automata and Complexity Theory  | Stanford University |  |
 |  CS161 | Algorithms: Design and Analysis | Stanford University | ⏳ |
 |  CS223A | Robotics | Stanford University |  |
