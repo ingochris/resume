@@ -8,10 +8,11 @@
 |  CYB2004  | COBIT  | Cybrary  | ✔️ |
 |  CYB2008  | Microsoft SharePoint  | Cybrary | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
+|  SL1024 | JavaScript Basics | SoloLearn  | ⏳ |
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
 |  SL1068 | Java Development | SoloLearn  | ⏳ |
 |  SL1073 | Python 3 Development | SoloLearn  | ✔️ |
-|  CS101-SP | Computer Science in JS  | Stanford University | ✔️ |
+|  CS101SP | Computer Science in JavaScript  | Stanford University | ✔️ |
 |  CS001U | Practical UNIX  | Stanford University | ✔️ |
 |  CS106A | Programming Methodology  | Stanford University | ⏳ |
 |  CS106B | Programming Abstraction  | Stanford University |  |
