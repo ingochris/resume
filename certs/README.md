@@ -17,6 +17,7 @@
 |  CS106A | Programming Methodology  | Stanford University | ⏳ |
 |  CS106B | Programming Abstraction  | Stanford University |  |
 |  CS107 | Programming Paradigms  | Stanford University |  |
+|  CS142 | Web Applications  | Stanford University |  |
 |  CS145 | SQL Relational Databases  | Stanford University | ✔️ |
 |  CS147 | Human Computer Interaction Design  | Stanford University | ✔️ |
 |  CS154 | Automata and Complexity Theory  | Stanford University |  |
