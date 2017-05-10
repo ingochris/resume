@@ -1,12 +1,12 @@
 |  Section  | Title  | Authority  | Status |
 |---|---|---|---|
-|  CYB1000 | CompTIA A+  | Cybrary  | ✔️ |
-|  CYB1003  | HIPAA Training  | Cybrary | ✔️ |
-|  CYB1006 | ITIL Foundation  | Cybrary | ✔️ |
-|  CYB1007  | CompTIA Linux+  | Cybrary | ✔️ |
-|  CYB1009  | CompTIA Security+  | Cybrary | ✔️ |
-|  CYB2004  | COBIT  | Cybrary  | ✔️ |
-|  CYB2008  | Microsoft SharePoint  | Cybrary | ✔️ |
+|  CYB1000 | CompTIA A+  | CybraryIT  | ✔️ |
+|  CYB1003  | HIPAA Training  | CybraryIT | ✔️ |
+|  CYB1006 | ITIL Foundation  | CybraryIT | ✔️ |
+|  CYB1007  | CompTIA Linux+  | CybraryIT | ✔️ |
+|  CYB1009  | CompTIA Security+  | CybraryIT | ✔️ |
+|  CYB2004  | COBIT  | CybraryIT  | ✔️ |
+|  CYB2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  SL1024 | JavaScript Basics | SoloLearn  | ⏳ |
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
@@ -14,9 +14,9 @@
 |  SL1073 | Python 3 Development | SoloLearn  | ✔️ |
 |  CS101SP | Computer Science in JavaScript  | Stanford University | ✔️ |
 |  CS001U | Practical UNIX  | Stanford University | ✔️ |
-|  CS106A | Programming Methodology  | Stanford University | ⏳ |
-|  CS106B | Programming Abstraction  | Stanford University |  |
-|  CS107 | Programming Paradigms  | Stanford University |  |
+|  CS106A | Programming Methodology in Java  | Stanford University | ⏳ |
+|  CS106B | Programming Abstraction in C++  | Stanford University |  |
+|  CS107 | Programming Paradigms in C | Stanford University |  |
 |  CS142 | Web Applications  | Stanford University |  |
 |  CS145 | SQL Relational Databases  | Stanford University | ✔️ |
 |  CS147 | Human Computer Interaction Design  | Stanford University | ✔️ |
