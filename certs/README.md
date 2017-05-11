@@ -1,12 +1,12 @@
 |  Section  | Title  | Authority  | Status |
 |---|---|---|---|
-|  C1000 | CompTIA A+  | CybraryIT  | ✔️ |
-|  C1003  | HIPAA Training  | CybraryIT | ✔️ |
-|  C1006 | ITIL Foundation  | CybraryIT | ✔️ |
-|  C1007  | CompTIA Linux+  | CybraryIT | ✔️ |
-|  C1009  | CompTIA Security+  | CybraryIT | ✔️ |
-|  C2004  | COBIT  | CybraryIT  | ✔️ |
-|  C2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
+|  CY1000 | CompTIA A+  | CybraryIT  | ✔️ |
+|  CY1003  | HIPAA Training  | CybraryIT | ✔️ |
+|  CY1006 | ITIL Foundation  | CybraryIT | ✔️ |
+|  CY1007  | CompTIA Linux+  | CybraryIT | ✔️ |
+|  CY1009  | CompTIA Security+  | CybraryIT | ✔️ |
+|  CY2004  | COBIT  | CybraryIT  | ✔️ |
+|  CY2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  SL1024 | JavaScript Basics | SoloLearn  | ⏳ |
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
