@@ -10,7 +10,7 @@
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  SL1024 | JavaScript Basics | SoloLearn  | ⏳ |
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
-|  SL1068 | Java Development | SoloLearn  | ⏳ |
+|  SL1068 | Java Development | SoloLearn  | ✔️ |
 |  SL1073 | Python 3 Development | SoloLearn  | ✔️ |
 |  CS101SP | Computer Science in JavaScript  | Stanford University | ✔️ |
 |  CS001U | Practical UNIX  | Stanford University | ✔️ |
