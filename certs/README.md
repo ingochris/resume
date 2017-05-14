@@ -14,8 +14,8 @@
 |  SL1073 | Python 3 | SoloLearn  | ✔️ |
 |  CS101SP | Computer Science in JavaScript  | Stanford University | ✔️ |
 |  CS001U | Practical UNIX  | Stanford University | ✔️ |
-|  CS106A | Programming Methodology in Java  | Stanford University | ⏳ |
-|  CS106B | Programming Abstraction in C++  | Stanford University |  |
+|  CS106A | Programming Methodology in Java  | Stanford University | ✔️ |
+|  CS106B | Programming Abstraction in C++  | Stanford University | ⏳ |
 |  CS107 | Programming Paradigms in C | Stanford University |  |
 |  CS142 | Web Applications  | Stanford University |  |
 |  CS145 | SQL Relational Databases  | Stanford University | ✔️ |
