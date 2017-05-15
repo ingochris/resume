@@ -16,6 +16,11 @@
 |  CS229 | Machine Learning | Stanford University |  |
 |  CS236 | Mining Massive Datasets | Stanford University |  |
 |  CS255 | Cryptography | Stanford University | ⏳ |
+|  CY501x | Cybersecurity Fundamentals | RITx |  |
+|  CY502x | Computer Forensics | RITx |  |
+|  CY503x | Cybersecurity Risk Management | RITx |  |
+|  CY504x | Network Security | RITx |  |
+|  CY525x | Cybersecurity Capstone | RITx |  |
 |  CY1000 | CompTIA A+  | CybraryIT  | ✔️ |
 |  CY1003  | HIPAA Training  | CybraryIT | ✔️ |
 |  CY1006 | ITIL Foundation  | CybraryIT | ✔️ |
