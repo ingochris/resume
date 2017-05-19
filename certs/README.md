@@ -14,6 +14,7 @@
 |  CS223A | Robotics | Stanford University |  |
 |  CS228 | Probabilistic Graphical Models | Stanford University |  |
 |  CS229 | Machine Learning | Stanford University |  |
+|  CS231n | Convolutional Neural Networks | Stanford University | ⏳ |
 |  CS236 | Mining Massive Datasets | Stanford University |  |
 |  CS255 | Cryptography | Stanford University | ⏳ |
 |  CY501x | Cybersecurity Fundamentals | Rochester Institute of Technology |  |
