@@ -17,8 +17,8 @@
 |  CS231n | Convolutional Neural Networks | Stanford University | ⏳ |
 |  CS236 | Mining Massive Datasets | Stanford University |  |
 |  CS255 | Cryptography | Stanford University | ⏳ |
-|  CY501x | Cybersecurity Fundamentals | Rochester Institute of Technology |  |
-|  CY502x | Computer Forensics | Rochester Institute of Technology |  |
+|  CY501x | Cybersecurity Fundamentals | Rochester Institute of Technology | ⏳ |
+|  CY502x | Computer Forensics | Rochester Institute of Technology | ⏳ |
 |  CY503x | Cybersecurity Risk Management | Rochester Institute of Technology |  |
 |  CY504x | Network Security | Rochester Institute of Technology |  |
 |  CY525x | Cybersecurity Capstone | Rochester Institute of Technology |  |
