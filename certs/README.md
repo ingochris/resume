@@ -1,6 +1,13 @@
 |  SECTION  | TITLE  | AUTHORITY  | STATUS |
 |---|---|---|---|
+|  CIS037A | C Programming  | Mission College | ✔️ |
+|  CIS045 | Linux Essentials  | Mission College | ✔️ |
+|  CIS046 | Shell Programming  | Mission College | ✔️ |
+|  CIS047 | Linux System Administration  | Mission College | ✔️ |
+|  CIT012 | Computer Networks  | Mission College | ✔️ |
 |  CIT016 | IT Security and Ethical Hacking  | Mission College | ✔️ |
+|  CIT021 | Cisco Network Fundamentals (Cisco-1)  | Mission College | ✔️ |
+|  CIT022 | Routing Protocols and Concepts (Cisco-2)  | Mission College | ✔️ |
 |  CS101SP | Computer Science in JavaScript  | Stanford University | ✔️ |
 |  CS001U | Practical UNIX  | Stanford University | ✔️ |
 |  CS106A | Programming Methodology in Java  | Stanford University | ✔️ |
