@@ -1,5 +1,6 @@
 |  SECTION  | TITLE  | AUTHORITY  | STATUS |
 |---|---|---|---|
+|  CIT016 | IT Security and Ethical Hacking  | Mission College | ✔️ |
 |  CS101SP | Computer Science in JavaScript  | Stanford University | ✔️ |
 |  CS001U | Practical UNIX  | Stanford University | ✔️ |
 |  CS106A | Programming Methodology in Java  | Stanford University | ✔️ |
