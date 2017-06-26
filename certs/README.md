@@ -43,3 +43,4 @@
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
 |  SL1068 | Java | SoloLearn  | ⏳ |
 |  SL1073 | Python 3 | SoloLearn  | ✔️ |
+|   | Android Basics Nanodegree | Udacity  | ⏳ |
