@@ -26,11 +26,18 @@
 |  CS231n | Convolutional Neural Networks | Stanford University | ⏳ |
 |  CS236 | Mining Massive Datasets | Stanford University |  |
 |  CS255 | Cryptography | Stanford University | ⏳ |
-|  CY501x | Cybersecurity Fundamentals | Rochester Institute of Technology | ✔️ |
-|  CY502x | Computer Forensics | Rochester Institute of Technology | ✔️ |
-|  CY503x | Cybersecurity Risk Management | Rochester Institute of Technology | ⏳ |
-|  CY504x | Network Security | Rochester Institute of Technology |  |
-|  CY525x | Cybersecurity Capstone | Rochester Institute of Technology |  |
+|  CY501 | Cybersecurity Fundamentals | Rochester Institute of Technology | ✔️ |
+|  CY502 | Computer Forensics | Rochester Institute of Technology | ✔️ |
+|  CY503 | Cybersecurity Risk Management | Rochester Institute of Technology | ⏳ |
+|  CY504 | Network Security | Rochester Institute of Technology |  |
+|  CY525 | Cybersecurity Capstone | Rochester Institute of Technology |  |
+|  CY601 | Research Methods and Proposal Development | Rochester Institute of Technology |  |
+|  CY603 | Enterprise Security | Rochester Institute of Technology |  |
+|  CY604 | Cryptography and Authentication | Rochester Institute of Technology |  |
+|  CY742 | Computer System Security | Rochester Institute of Technology |  |
+|  CY731 | Web Server and Application Security Audits | Rochester Institute of Technology |  |
+|  CY743 | Computer Viruses and Malicious Software | Rochester Institute of Technology |  |
+|  CY793 | Capstone for Computing Security | Rochester Institute of Technology |  |
 |  CY1000 | CompTIA A+  | CybraryIT  | ✔️ |
 |  CY1003  | HIPAA Training  | CybraryIT | ✔️ |
 |  CY1006 | ITIL Foundation  | CybraryIT | ✔️ |
