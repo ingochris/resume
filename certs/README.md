@@ -38,13 +38,15 @@
 |  CY731 | Web Server and Application Security Audits | Rochester Institute of Technology |  |
 |  CY743 | Computer Viruses and Malicious Software | Rochester Institute of Technology |  |
 |  CY793 | Capstone for Computing Security | Rochester Institute of Technology |  |
-|  CY1000 | CompTIA A+  | CybraryIT  | ✔️ |
+|  CY1000 | CompTIA A+  | CybraryIT | ✔️ |
+|  CY1002 | Cryptography  | CybraryIT | ✔️ |
 |  CY1003  | HIPAA Training  | CybraryIT | ✔️ |
 |  CY1006 | ITIL Foundation  | CybraryIT | ✔️ |
 |  CY1007  | CompTIA Linux+  | CybraryIT | ✔️ |
 |  CY1009  | CompTIA Security+  | CybraryIT | ✔️ |
 |  CY2004  | COBIT  | CybraryIT  | ✔️ |
 |  CY2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
+|  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
