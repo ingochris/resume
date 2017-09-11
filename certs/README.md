@@ -46,6 +46,7 @@
 |  CY1009  | CompTIA Security+  | CybraryIT | ✔️ |
 |  CY2004  | COBIT  | CybraryIT  | ✔️ |
 |  CY2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
+|  CY3006 | Metasploit | CybraryIT  | ⏳ |
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
