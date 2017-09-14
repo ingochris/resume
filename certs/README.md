@@ -48,6 +48,7 @@
 |  CY2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
 |  CY3006 | Metasploit | CybraryIT  | ⏳ |
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
+|   | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
