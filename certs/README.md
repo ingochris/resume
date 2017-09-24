@@ -39,6 +39,7 @@
 |  CY743 | Computer Viruses and Malicious Software | Rochester Institute of Technology |  |
 |  CY793 | Capstone for Computing Security | Rochester Institute of Technology |  |
 |  CY1000 | CompTIA A+  | CybraryIT | ✔️ |
+|  CY1001 | CompTIA Cloud+  | CybraryIT | ✔️ |
 |  CY1002 | Cryptography  | CybraryIT | ✔️ |
 |  CY1003  | HIPAA Training  | CybraryIT | ✔️ |
 |  CY1006 | ITIL Foundation  | CybraryIT | ✔️ |
