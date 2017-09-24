@@ -54,6 +54,6 @@
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
-|  SL1068 | Java | SoloLearn  | ⏳ |
+|  SL1068 | Java | SoloLearn  | ✔️ |
 |  SL1073 | Python 3 | SoloLearn  | ✔️ |
 |  UDACITY | Android Basics Nanodegree | Udacity  | ⏳ |
