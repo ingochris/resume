@@ -57,6 +57,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY2004  | COBIT  | CybraryIT  | ✔️ |
 |  CY2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
 |  CY3006 | Metasploit | CybraryIT  | ⏳ |
+|  CY3007 | PCI/DSS | CybraryIT  | ✔️ |
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYXXXX | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
