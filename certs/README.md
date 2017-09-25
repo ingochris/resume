@@ -45,6 +45,7 @@
 |  CY1006 | ITIL Foundation  | CybraryIT | ✔️ |
 |  CY1007  | CompTIA Linux+  | CybraryIT | ✔️ |
 |  CY1009  | CompTIA Security+  | CybraryIT | ✔️ |
+|  CY2001  | Computer and Hacking Forensics (CHFI)  | CybraryIT  | ⏳ |
 |  CY2004  | COBIT  | CybraryIT  | ✔️ |
 |  CY2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
 |  CY3006 | Metasploit | CybraryIT  | ⏳ |
