@@ -58,6 +58,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY2004  | COBIT  | CybraryIT  | ✔️ |
 |  CY2001  | Computer and Hacking Forensics (CHFI)  | CybraryIT  | ✔️ |
 |  CY2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
+|  CY2009  | Penetration Testing and Ethical Hacking  | CybraryIT | ⏳ |
 |  CY3006 | Metasploit | CybraryIT  | ⏳ |
 |  CY3007 | PCI/DSS | CybraryIT  | ✔️ |
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
