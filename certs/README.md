@@ -50,6 +50,7 @@
 |  CY2004  | COBIT  | CybraryIT  | ✔️ |
 |  CY2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
 |  CY2009  | Penetration Testing and Ethical Hacking  | CybraryIT | ⏳ |
+|  CY2016  | Web Application Penetration Testing  | CybraryIT | ⏳ |
 |  CY3005 | Malware Analysis and Reverse Engineering | CybraryIT  |  |
 |  CY3006 | Metasploit | CybraryIT  | ⏳ |
 |  CY3007 | PCI/DSS | CybraryIT  | ✔️ |
