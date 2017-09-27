@@ -69,7 +69,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1051 | C++ | SoloLearn  | ⏳ |
-|  SL1059 | PHP | SoloLearn  | ⏳ |
+|  SL1059 | PHP | SoloLearn  | ✔️ |
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
 |  SL1068 | Java | SoloLearn  | ✔️ |
 |  SL1073 | Python 3 | SoloLearn  | ✔️ |
