@@ -73,4 +73,5 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
 |  SL1068 | Java | SoloLearn  | ✔️ |
 |  SL1073 | Python 3 | SoloLearn  | ✔️ |
+|  SL1081 | Ruby | SoloLearn  | ⏳ |
 |  UDACITY | Android Basics Nanodegree | Udacity  | ⏳ |
