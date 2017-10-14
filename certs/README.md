@@ -57,6 +57,7 @@
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYXXXX | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
+|  SL1014 | HTML5 | SoloLearn  | ⏳ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1051 | C++ | SoloLearn  | ⏳ |
 |  SL1059 | PHP | SoloLearn  | ✔️ |
