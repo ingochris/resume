@@ -62,7 +62,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY2009  | Penetration Testing and Ethical Hacking  | CybraryIT | ⏳ |
 |  CY2016  | Web Application Penetration Testing  | CybraryIT | ⏳ |
 |  CY3005 | Malware Analysis and Reverse Engineering | CybraryIT  |  |
-|  CY3006 | Metasploit | CybraryIT  | ⏳ |
+|  CY3006 | Metasploit | CybraryIT  | ✔️ |
 |  CY3007 | PCI/DSS | CybraryIT  | ✔️ |
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYXXXX | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
