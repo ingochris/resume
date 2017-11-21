@@ -29,7 +29,7 @@
 |  CY501 | Cybersecurity Fundamentals | Rochester Institute of Technology | ✔️ |
 |  CY502 | Computer Forensics | Rochester Institute of Technology | ✔️ |
 |  CY503 | Cybersecurity Risk Management | Rochester Institute of Technology | ✔️ |
-|  CY504 | Network Security | Rochester Institute of Technology | ⏳ |
+|  CY504 | Network Security | Rochester Institute of Technology | ✔️ |
 |  CY525 | Cybersecurity Capstone | Rochester Institute of Technology |  |
 |  CY601 | Research Methods and Proposal Development | Rochester Institute of Technology |  |
 |  CY603 | Enterprise Security | Rochester Institute of Technology |  |
