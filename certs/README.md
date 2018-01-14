@@ -30,7 +30,7 @@
 |  CY502 | Computer Forensics | Rochester Institute of Technology | ✔️ |
 |  CY503 | Cybersecurity Risk Management | Rochester Institute of Technology | ✔️ |
 |  CY504 | Network Security | Rochester Institute of Technology | ✔️ |
-|  CY525 | Cybersecurity Capstone | Rochester Institute of Technology |  |
+|  CY525 | Cybersecurity Capstone | Rochester Institute of Technology | ⏳ |
 |  CY601 | Research Methods and Proposal Development | Rochester Institute of Technology |  |
 |  CY603 | Enterprise Security | Rochester Institute of Technology |  |
 |  CY604 | Cryptography and Authentication | Rochester Institute of Technology |  |
@@ -57,12 +57,15 @@
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYXXXX | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
+|  SECFND | CCNA Cybersecurity Fundamentals | Cisco  | ⏳ |
+|  SECOPS | CCNA Cybersecurity Operations | Cisco  |  |
 |  SL1014 | HTML5 | SoloLearn  | ⏳ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1051 | C++ | SoloLearn  | ⏳ |
 |  SL1059 | PHP | SoloLearn  | ✔️ |
-|  SL1060 | SQL Fundamentals | SoloLearn  | ✔️ |
+|  SL1060 | SQL | SoloLearn  | ✔️ |
 |  SL1068 | Java | SoloLearn  | ✔️ |
 |  SL1073 | Python 3 | SoloLearn  | ✔️ |
 |  SL1081 | Ruby | SoloLearn  | ✔️ |
 |  UDACITY | Android Basics Nanodegree | Udacity  | ⏳ |
+|  UDACITY | Android Developer Nanodegree | Udacity  | ⏳ |
