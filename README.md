@@ -67,6 +67,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYXXXX | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
+|  SECFND | CCNA Cybersecurity Fundamentals | Cisco  | ⏳ |
 |  SL1014 | HTML5 | SoloLearn  | ⏳ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1051 | C++ | SoloLearn  | ⏳ |
