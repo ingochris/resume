@@ -58,7 +58,7 @@
 |  CYXXXX | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  SECFND | CCNA Cybersecurity Fundamentals | Cisco  | ⏳ |
-|  SECOPS | CCNA Cybersecurity Operations | Cisco  | ⏳ |
+|  SECOPS | CCNA Cybersecurity Operations | Cisco  | ✔️ |
 |  SL1014 | HTML5 | SoloLearn  | ⏳ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1051 | C++ | SoloLearn  | ⏳ |
