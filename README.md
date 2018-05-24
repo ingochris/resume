@@ -55,7 +55,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY1006 | ITIL Foundation  | CybraryIT | ✔️ |
 |  CY1007  | CompTIA Linux+  | CybraryIT | ✔️ |
 |  CY1009  | CompTIA Security+  | CybraryIT | ✔️ |
-|  CY2000  | Cisco CCNA  | CybraryIT | ⏳ |
+|  CY2000  | CCNA  | CybraryIT | ⏳ |
 |  CY2001  | Computer and Hacking Forensics (CHFI)  | CybraryIT  | ✔️ |
 |  CY2004  | COBIT  | CybraryIT  | ✔️ |
 |  CY2008  | Microsoft SharePoint  | CybraryIT | ✔️ |
@@ -67,6 +67,8 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYXXXX | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
+|  CCNA01 | CCNA R&S: Introduction to Networking | Cisco  | ✔️ |
+|  CCNA02 | CCNA R&S: Routing & Switching Essentials | Cisco  | ✔️ |
 |  SECFND | CCNA Cybersecurity Fundamentals | Cisco  | ⏳ |
 |  SECOPS | CCNA Cybersecurity Operations | Cisco  | ✔️ |
 |  SL1014 | HTML5 | SoloLearn  | ⏳ |
