@@ -8,7 +8,7 @@ It is his goal to build a cybersecurity career from this exciting childhood inte
 In recent years, Christopher has leveraged his free time to become an experienced hackathon hacker (60+ competitions) and organizer ([HackingEDU](http://hackingedu.co) | [SiliconHacks](http://siliconhacks.com) | [Spectra](http://sospectra.com)), exercising his passion to educate, invent, and share. Christopher currently studies the triple threat of Computer Science, Information Security, and Latin Ballroom Dance.
 
 
-|  SECTION  | TITLE  | AUTHORITY  | STATUS |
+|  SECTION  | TITLE  | AUTHORITY  | 📑 |
 |---|---|---|---|
 |  CIS037A | C Programming  | Mission College | ✔️ |
 |  CIS045 | Linux Essentials  | Mission College | ✔️ |
