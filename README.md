@@ -71,6 +71,25 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYXXXX | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
+|  OST001 | Android Forensics & Security Testing  | Open Security Training |  |
+|  OST003 | Flow Analysis & Network Hunting  | Open Security Training |  |
+|  OST004 | Hacking Techniques and Intrusion Detection   | Open Security Training |  |
+|  OST005 | Intel x86: Architecture, Assembly, Applications   | Open Security Training |  |
+|  OST006 | Intel x86-64: Architecture, Assembly, Applications   | Open Security Training |  |
+|  OST007 | Introduction to ARM   | Open Security Training |  |
+|  OST008 | Introduction to Cellular Security  | Open Security Training |  |
+|  OST009 | Introduction to Network Forensics  | Open Security Training |  |
+|  OST010 | Introduction to Secure Coding  | Open Security Training |  |
+|  OST011 | Introduction to Vulnerability Assessment  | Open Security Training |  |
+|  OST012 | Introduction to Trusted Computing  | Open Security Training |  |
+|  OST013 | Offensive, Defensive, and Forensic Web UID  | Open Security Training |  |
+|  OST014 | Pcap Analysis & Network Hunting  | Open Security Training |  |
+|  OST015 | Malware Dynamic Analysis  | Open Security Training |  |
+|  OST016 | Secure Code Review  | Open Security Training |  |
+|  OST017 | Smart Cards  | Open Security Training |  |
+|  OST018 | The Life of Binaries   | Open Security Training |  |
+|  OST019 | Understanding Cryptology: Core Concepts  | Open Security Training |  |
+|  OST020 | Understanding Cryptology: Cryptanalysis  | Open Security Training |  |
 |  SL1014 | HTML5 | SoloLearn  | ⏳ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1051 | C++ | SoloLearn  | ⏳ |
