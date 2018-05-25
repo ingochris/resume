@@ -77,7 +77,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  OST005 | Intel x86: Architecture, Assembly, Applications   | Open Security Training |  |
 |  OST006 | Intel x86-64: Architecture, Assembly, Applications   | Open Security Training |  |
 |  OST007 | Introduction to ARM   | Open Security Training |  |
-|  OST008 | Introduction to Cellular Security  | Open Security Training |  |
+|  OST008 | Introduction to Cellular Security  | Open Security Training | ⏳ |
 |  OST009 | Introduction to Network Forensics  | Open Security Training |  |
 |  OST010 | Introduction to Secure Coding  | Open Security Training |  |
 |  OST011 | Introduction to Vulnerability Assessment  | Open Security Training |  |
