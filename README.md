@@ -10,6 +10,10 @@ In recent years, Christopher has leveraged his free time to become an experience
 
 |  SECTION  | TITLE  | AUTHORITY  | 📑 |
 |---|---|---|---|
+|  CCNARS1 | CCNA R&S: Introduction to Networking | Cisco  | ✔️ |
+|  CCNARS2 | CCNA R&S: Routing & Switching Essentials | Cisco  | ✔️ |
+|  CCNACY1 | CCNA Cybersecurity Fundamentals | Cisco  | ⏳ |
+|  CCNACY2 | CCNA Cybersecurity Operations | Cisco  | ✔️ |
 |  CIS037A | C Programming  | Mission College | ✔️ |
 |  CIS045 | Linux Essentials  | Mission College | ✔️ |
 |  CIS046 | Shell Programming  | Mission College | ✔️ |
@@ -67,10 +71,6 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYXXXX | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
-|  CCNA01 | CCNA R&S: Introduction to Networking | Cisco  | ✔️ |
-|  CCNA02 | CCNA R&S: Routing & Switching Essentials | Cisco  | ✔️ |
-|  SECFND | CCNA Cybersecurity Fundamentals | Cisco  | ⏳ |
-|  SECOPS | CCNA Cybersecurity Operations | Cisco  | ✔️ |
 |  SL1014 | HTML5 | SoloLearn  | ⏳ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1051 | C++ | SoloLearn  | ⏳ |
