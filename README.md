@@ -90,6 +90,15 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  OST018 | The Life of Binaries   | Open Security Training |  |
 |  OST019 | Understanding Cryptology: Core Concepts  | Open Security Training |  |
 |  OST020 | Understanding Cryptology: Cryptanalysis  | Open Security Training |  |
+|  OST021 | Introduction to Software Exploits (Exploits 1) |  Open Security Training  |  |
+|  OST022 | Exploits 2: Exploitation in the Windows Environment |  Open Security Training  |  |
+|  OST023 | Intermediate Intel x86: Architecture, Assembly, Applications |  Open Security Training  |  |
+|  OST024 | Advanced x86: Virtualization with Intel VT-x |  Open Security Training  |  |
+|  OST025 | Advanced x86: Introduction to BIOS & SM |  Open Security Training  |  |
+|  OST026 | Introduction to Reverse Engineering Software |  Open Security Training  |  |
+|  OST027 | Reverse Engineering Malware |  Open Security Training  |  |
+|  OST028 | Rootkits: What they are, and how to find them |  Open Security Training  |  |
+|  OST029 | An in-depth look into keylogging on Windows |  Open Security Training  |  |
 |  SL1014 | HTML5 | SoloLearn  | ⏳ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1051 | C++ | SoloLearn  | ⏳ |
