@@ -10,10 +10,10 @@ In recent years, Christopher has leveraged his free time to become an experience
 
 |  SECTION  | TITLE  | AUTHORITY  | 📑 |
 |---|---|---|---|
-|  CCNARS1 | CCNA R&S: Introduction to Networking | Cisco  | ✔️ |
-|  CCNARS2 | CCNA R&S: Routing & Switching Essentials | Cisco  | ✔️ |
-|  CCNACY1 | CCNA Cybersecurity Fundamentals | Cisco  | ⏳ |
-|  CCNACY2 | CCNA Cybersecurity Operations | Cisco  | ✔️ |
+|  CCNARS1 | CCNA R&S: Introduction to Networking | Cisco Network Academy | ✔️ |
+|  CCNARS2 | CCNA R&S: Routing & Switching Essentials | Cisco Network Academy | ✔️ |
+|  CCNACY1 | CCNA Cybersecurity Fundamentals | Cisco Network Academy | ⏳ |
+|  CCNACY2 | CCNA Cybersecurity Operations | Cisco Network Academy | ✔️ |
 |  CIS037A | C Programming  | Mission College | ✔️ |
 |  CIS045 | Linux Essentials  | Mission College | ✔️ |
 |  CIS046 | Shell Programming  | Mission College | ✔️ |
