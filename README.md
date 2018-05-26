@@ -69,7 +69,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY3006 | Metasploit | CybraryIT  | ✔️ |
 |  CY3007 | PCI/DSS | CybraryIT  | ✔️ |
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
-|  CYXXXX | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
+|  CYPAFW | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  OST001 | Android Forensics & Security Testing  | Open Security Training |  |
 |  OST003 | Flow Analysis & Network Hunting  | Open Security Training |  |
