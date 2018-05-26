@@ -75,6 +75,8 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYPAFW | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
+|  OSKLR | Kali Linux Revealed  | Offensive Security | ⏳ |
+|  OSMSFU | Metasploit Framework Unleashed  | Offensive Security | ⏳ |
 |  OST001 | Android Forensics & Security Testing  | Open Security Training |  |
 |  OST003 | Flow Analysis & Network Hunting  | Open Security Training |  |
 |  OST004 | Hacking Techniques and Intrusion Detection   | Open Security Training |  |
