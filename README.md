@@ -1,5 +1,9 @@
 # GENERAL BIO 📑 
-https://linkedin.com/in/ingochris
+LinkedIn: https://linkedin.com/in/ingochris
+
+Resume: https://github.com/ingochris/resume/raw/master/ChristopherNgo.pdf
+
+Website: https://ingochris.tech
 
 Christopher is a software engineer who entered the tech scene through the hair-raising vector of penetration testing. 
 
