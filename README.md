@@ -86,7 +86,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  OST010 | Introduction to Secure Coding  | Open Security Training |  |
 |  OST011 | Introduction to Vulnerability Assessment  | Open Security Training |  |
 |  OST012 | Introduction to Trusted Computing  | Open Security Training |  |
-|  OST013 | Offensive, Defensive, and Forensic Web UID  | Open Security Training |  |
+|  OST013 | Offensive, Defensive, and Forensic Web User Identification  | Open Security Training | ⏳ |
 |  OST014 | Pcap Analysis & Network Hunting  | Open Security Training |  |
 |  OST015 | Malware Dynamic Analysis  | Open Security Training |  |
 |  OST016 | Secure Code Review  | Open Security Training |  |
