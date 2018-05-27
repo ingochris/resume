@@ -77,6 +77,11 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  OSKLR | Kali Linux Revealed  | Offensive Security | ⏳ |
 |  OSMSFU | Metasploit Framework Unleashed  | Offensive Security | ⏳ |
+|  OSPWK | Penetration Testing with Kali Linux  | Offensive Security |  |
+|  OSWiFu | Offensive Security Wireless Attacks  | Offensive Security |  |
+|  OSCTP | Cracking The Perimeter  | Offensive Security |  |
+|  OSAWE | Advanced Windows Exploitation  | Offensive Security |  |
+|  OSAWAE | Advanced Web Attacks and Exploitation  | Offensive Security |  |
 |  OST001 | Android Forensics & Security Testing  | Open Security Training |  |
 |  OST003 | Flow Analysis & Network Hunting  | Open Security Training |  |
 |  OST004 | Hacking Techniques and Intrusion Detection   | Open Security Training |  |
