@@ -49,6 +49,7 @@
 |  CYPAFW | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
 |  OST008 | Introduction to Cellular Security  | Open Security Training | ✔️ |
+|  OST009 | Introduction to Network Forensics  | Open Security Training | ✔️ |
 |  OST013 | Offensive, Defensive, and Forensic Web User Identification  | Open Security Training | ✔️ |
 |  OST014 | Pcap Analysis & Network Hunting  | Open Security Training | ⏳ |
 |  SL1014 | HTML5 | SoloLearn  | ⏳ |
