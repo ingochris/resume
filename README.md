@@ -97,8 +97,8 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  OST013 | Offensive, Defensive, and Forensic Web User Identification  | Open Security Training | ✔️ |
 |  OST014 | Pcap Analysis & Network Hunting  | Open Security Training | ⏳ |
 |  OST015 | Malware Dynamic Analysis  | Open Security Training |  |
-|  OST016 | Secure Code Review  | Open Security Training |  |
-|  OST017 | Smart Cards  | Open Security Training |  |
+|  OST016 | Secure Code Review  | Open Security Training | ⏳ |
+|  OST017 | Smart Cards  | Open Security Training | ⏳ |
 |  OST018 | The Life of Binaries   | Open Security Training |  |
 |  OST019 | Understanding Cryptology: Core Concepts  | Open Security Training |  |
 |  OST020 | Understanding Cryptology: Cryptanalysis  | Open Security Training |  |
