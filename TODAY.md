@@ -52,6 +52,8 @@
 |  OST009 | Introduction to Network Forensics  | Open Security Training | ✔️ |
 |  OST013 | Offensive, Defensive, and Forensic Web User Identification  | Open Security Training | ✔️ |
 |  OST014 | Pcap Analysis & Network Hunting  | Open Security Training | ⏳ |
+|  OST016 | Secure Code Review  | Open Security Training | ⏳ |
+|  OST017 | Smart Cards  | Open Security Training | ⏳ |
 |  SL1014 | HTML5 | SoloLearn  | ⏳ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1051 | C++ | SoloLearn  | ⏳ |
