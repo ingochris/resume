@@ -28,7 +28,8 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CIT022 | Routing Protocols and Concepts (Cisco-2)  | Mission College | ✔️ |
 |  CS50X | Computer Science 50  | Harvard University | ⏳ |
 |  CS101 | Principles of Computing  | Stanford University | ✔️ |
-|  CS101SP | Computer Science in JavaScript  | Stanford University | ✔️ |
+|  XCS100 | Introduction to Web Security | Stanford University | ⏳ |
+|  CS101SP | Introduction to Computer Science in JavaScript  | Stanford University | ✔️ |
 |  CS001U | Practical UNIX  | Stanford University | ✔️ |
 |  CS106A | Programming Methodology in Java  | Stanford University | ✔️ |
 |  CS106B | Programming Abstraction in C++  | Stanford University | ⏳ |
