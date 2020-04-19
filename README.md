@@ -1,7 +1,7 @@
 # GENERAL BIO 📑 
 LinkedIn: https://linkedin.com/in/ingochris
 
-Resume: https://github.com/ingochris/resume/raw/master/ChristopherNgo.pdf
+Resume: https://www.ingochris.tech/resume
 
 Website: https://ingochris.tech
 
