@@ -37,7 +37,20 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CS142 | Web Applications  | Stanford University | ⏳ |
 |  CS143 | Compilers  | Stanford University | ⏳ |
 |  CS144 | Computer Networks  | Stanford University | ⏳ |
-|  CS145 | SQL Relational Databases  | Stanford University | ✔️ |
+|  CSDB01 | Data Models: Introduction and Relational Databases  | Stanford University | ✔️ |
+|  CSDB02 | Data Models: XML Data  | Stanford University | ✔️ |
+|  CSDB03 | Data Models: JSON Data  | Stanford University | ✔️ |
+|  CSDB04 | Relational Databases: Relational Algebra  | Stanford University | ⏳ |
+|  CSDB05 | Relational Databases: SQL  | Stanford University | ✔️ |
+|  CSDB06 | XML Databases: XPath and XQuery  | Stanford University | ✔️ |
+|  CSDB07 | XML Databases: XSLT  | Stanford University | ✔️ |
+|  CSDB08 | Database Design: Relational Design Theory  | Stanford University | ⏳ |
+|  CSDB09 | Database Design: Unified Modeling Language  | Stanford University | ✔️ |
+|  CSDB10 | SQL Advanced Features: Indexes and Transactions  | Stanford University | ✔️ |
+|  CSDB11 | SQL Advanced Features: Constraints and Triggers  | Stanford University | ⏳ |
+|  CSDB12 | SQL Advanced Features: View and Authorization  | Stanford University | ⏳ |
+|  CSDB13 | SQL Advanced Features: On-Line Analytical Processing  | Stanford University | ✔️ |
+|  CSDB14 | SQL Advanced Features: Recursion in SQL  | Stanford University | ✔️ |
 |  CS147 | Human Computer Interaction Design  | Stanford University | ✔️ |
 |  CS154 | Automata and Complexity Theory  | Stanford University |  |
 |  CS161 | Algorithms: Design and Analysis | Stanford University | ⏳ |
@@ -47,6 +60,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CS231n | Convolutional Neural Networks | Stanford University | ⏳ |
 |  CS236 | Mining Massive Datasets | Stanford University |  |
 |  CS255 | Cryptography | Stanford University | ⏳ |
+|  STATS216 | Statistical Learning in R | Stanford University | ✔️ |
 |  CY501 | Cybersecurity Fundamentals | Rochester Institute of Technology | ✔️ |
 |  CY502 | Computer Forensics | Rochester Institute of Technology | ✔️ |
 |  CY503 | Cybersecurity Risk Management | Rochester Institute of Technology | ✔️ |
