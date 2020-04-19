@@ -53,14 +53,14 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CSDB14 | SQL Advanced Features: Recursion in SQL  | Stanford University | ✔️ |
 |  CS147 | Human Computer Interaction Design  | Stanford University | ✔️ |
 |  CS154 | Automata and Complexity Theory  | Stanford University |  |
-|  CS161 | Algorithms: Design and Analysis | Stanford University | ⏳ |
+|  CS161 | Algorithms: Design and Analysis | Stanford University | ✔️ |
 |  CS223A | Robotics | Stanford University |  |
 |  CS228 | Probabilistic Graphical Models | Stanford University |  |
 |  CS229 | Machine Learning | Stanford University |  |
 |  CS231n | Convolutional Neural Networks | Stanford University | ⏳ |
 |  CS236 | Mining Massive Datasets | Stanford University |  |
 |  CS255 | Cryptography | Stanford University | ⏳ |
-|  STATS216 | Statistical Learning in R | Stanford University | ✔️ |
+|  STAT216 | Statistical Learning in R | Stanford University | ✔️ |
 |  CY501 | Cybersecurity Fundamentals | Rochester Institute of Technology | ✔️ |
 |  CY502 | Computer Forensics | Rochester Institute of Technology | ✔️ |
 |  CY503 | Cybersecurity Risk Management | Rochester Institute of Technology | ✔️ |
