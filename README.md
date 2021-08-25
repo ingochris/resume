@@ -92,6 +92,10 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYPAFW | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
+|  MCAS | Microsoft Cloud App Security Ninja (MCAS)  | Microsoft |  |
+|  MDE | Microsoft Defender for Endpoint Ninja (MDE)  | Microsoft |  |
+|  MDI | Microsoft Defender for Identity Ninja (MDI)  | Microsoft |  |
+|  MDO | Microsoft Defender for Office 365 Ninja (MDO)  | Microsoft |  |
 |  OSKLR | Kali Linux Revealed  | Offensive Security | ⏳ |
 |  OSMSFU | Metasploit Framework Unleashed  | Offensive Security | ⏳ |
 |  OSPWK | Penetration Testing with Kali Linux  | Offensive Security |  |
