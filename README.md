@@ -92,8 +92,12 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYPAFW | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
+|  AZ900 | Microsoft Azure Fundamentals  | Microsoft | ⏳ |
+|  AI900 | Microsoft Azure Artifical Intelligence Fundamentals  | Microsoft |  |
+|  DP900 | Microsoft Azure Data Fundamentals  | Microsoft |  |
+|  PL900 | Microsoft Power Platform (PowerBI) Fundamentals  | Microsoft |  |
 |  MCAS | Microsoft Cloud App Security Ninja (MCAS)  | Microsoft |  |
-|  MDE | Microsoft Defender for Endpoint Ninja (MDE)  | Microsoft |  |
+|  MDE | Microsoft Defender for Endpoint Ninja (MDE)  | Microsoft | ⏳ |
 |  MDI | Microsoft Defender for Identity Ninja (MDI)  | Microsoft |  |
 |  MDO | Microsoft Defender for Office 365 Ninja (MDO)  | Microsoft |  |
 |  OSKLR | Kali Linux Revealed  | Offensive Security | ⏳ |
