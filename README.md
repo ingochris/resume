@@ -16,7 +16,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |---|---|---|---|
 |  CCNARS1 | CCNA R&S: Introduction to Networking | Cisco Network Academy | ✔️ |
 |  CCNARS2 | CCNA R&S: Routing & Switching Essentials | Cisco Network Academy | ✔️ |
-|  CCNACY1 | CCNA Cybersecurity Fundamentals | Cisco Network Academy | ⏳ |
+|  CCNACY1 | CCNA Cybersecurity Fundamentals | Cisco Network Academy | ✔️ |
 |  CCNACY2 | CCNA Cybersecurity Operations | Cisco Network Academy | ✔️ |
 |  CIS037A | C Programming  | Mission College | ✔️ |
 |  CIS045 | Linux Essentials  | Mission College | ✔️ |
@@ -92,17 +92,25 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  CY3011 | Corporate Cybersecurity Management | CybraryIT  | ✔️ |
 |  CYPAFW | Palo Alto Networks Firewalls | CybraryIT  | ✔️ |
 |  M101P | MongoDB Python Development  | MongoDB University | ✔️ |
-|  AZ900 | Microsoft Azure Fundamentals  | Microsoft | ⏳ |
-|  AI900 | Microsoft Azure Artifical Intelligence Fundamentals  | Microsoft |  |
-|  DP900 | Microsoft Azure Data Fundamentals  | Microsoft |  |
-|  PL900 | Microsoft Power Platform (PowerBI) Fundamentals  | Microsoft |  |
+|  AZ900 | Microsoft Certified Azure Fundamentals  | Microsoft | ⏳ |
+|  AZ104 | Microsoft Certified Azure Administrator Associate  | Microsoft | ⏳ |
+|  AZ204 | Microsoft Certified Azure Developer Associate  | Microsoft |  |
+|  AZ305 | Microsoft Certified Azure Solutions Architect Expert  | Microsoft |  |
+|  AZ400 | Microsoft Certified Azure Devops Engineer Expert  | Microsoft |  |
+|  AI900 | Microsoft Certified Azure Artifical Intelligence Fundamentals  | Microsoft | ⏳ |
+|  DP900 | Microsoft Certified Azure Data Fundamentals  | Microsoft | ⏳ |
+|  DP100 | Microsoft Certified Azure Data Scientist  | Microsoft |  |
+|  PL900 | Microsoft Security Operations Analyst  | Microsoft | ⏳ |
+|  SC200 | Microsoft Power Platform (PowerBI) Fundamentals  | Microsoft |  |
+|  SC300 | Microsoft Identity and Access Administrator  | Microsoft |  |
+|  SC400 | Microsoft Information Protection Administrator  | Microsoft |  |
 |  MCAS | Microsoft Cloud App Security Ninja (MCAS)  | Microsoft |  |
 |  MDE | Microsoft Defender for Endpoint Ninja (MDE)  | Microsoft | ⏳ |
 |  MDI | Microsoft Defender for Identity Ninja (MDI)  | Microsoft |  |
 |  MDO | Microsoft Defender for Office 365 Ninja (MDO)  | Microsoft |  |
-|  OSKLR | Kali Linux Revealed  | Offensive Security | ⏳ |
-|  OSMSFU | Metasploit Framework Unleashed  | Offensive Security | ⏳ |
-|  OSPWK | Penetration Testing with Kali Linux  | Offensive Security |  |
+|  OSKLR | Kali Linux Revealed  | Offensive Security | ✔️ |
+|  OSMSFU | Metasploit Framework Unleashed  | Offensive Security | ✔️ |
+|  OSPWK | Penetration Testing with Kali Linux  | Offensive Security | ⏳ |
 |  OSWiFu | Offensive Security Wireless Attacks  | Offensive Security |  |
 |  OSCTP | Cracking The Perimeter  | Offensive Security |  |
 |  OSAWE | Advanced Windows Exploitation  | Offensive Security |  |
@@ -135,7 +143,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  OST027 | Reverse Engineering Malware |  Open Security Training  |  |
 |  OST028 | Rootkits: What they are, and how to find them |  Open Security Training  |  |
 |  OST029 | An in-depth look into keylogging on Windows |  Open Security Training  |  |
-|  SL1014 | HTML5 | SoloLearn  | ⏳ |
+|  SL1014 | HTML5 | SoloLearn  | ✔️ |
 |  SL1024 | JavaScript | SoloLearn  | ✔️ |
 |  SL1051 | C++ | SoloLearn  | ⏳ |
 |  SL1059 | PHP | SoloLearn  | ✔️ |
