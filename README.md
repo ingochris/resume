@@ -97,6 +97,7 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  AZ204 | Microsoft Certified Azure Developer Associate  | Microsoft |  |
 |  AZ305 | Microsoft Certified Azure Solutions Architect Expert  | Microsoft |  |
 |  AZ400 | Microsoft Certified Azure Devops Engineer Expert  | Microsoft |  |
+|  AZ500 | Microsoft Certified Azure Security Engineer Associate  | Microsoft |  |
 |  AI900 | Microsoft Certified Azure Artifical Intelligence Fundamentals  | Microsoft | ⏳ |
 |  DP900 | Microsoft Certified Azure Data Fundamentals  | Microsoft | ⏳ |
 |  DP100 | Microsoft Certified Azure Data Scientist  | Microsoft |  |
