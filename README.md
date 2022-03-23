@@ -154,3 +154,5 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  SL1081 | Ruby | SoloLearn  | ✔️ |
 |  UDACITY | Android Basics Nanodegree | Udacity  | ⏳ |
 |  UDACITY | Android Developer Nanodegree | Udacity  | ⏳ |
+|  VMEDU | Scrum Fundamentals Certified (SFC™) certification | ScrumStudy  | ✔️ |
+
