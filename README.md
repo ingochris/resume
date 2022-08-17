@@ -105,10 +105,12 @@ In recent years, Christopher has leveraged his free time to become an experience
 |  SC200 | Microsoft Power Platform (PowerBI) Fundamentals  | Microsoft |  |
 |  SC300 | Microsoft Identity and Access Administrator  | Microsoft |  |
 |  SC400 | Microsoft Information Protection Administrator  | Microsoft |  |
+|  MLKQL | MustLearnKQL Certificate  | Microsoft | ✔️ |
 |  MCAS | Microsoft Cloud App Security Ninja (MCAS)  | Microsoft |  |
-|  MDE | Microsoft Defender for Endpoint Ninja (MDE)  | Microsoft | ⏳ |
-|  MDI | Microsoft Defender for Identity Ninja (MDI)  | Microsoft |  |
-|  MDO | Microsoft Defender for Office 365 Ninja (MDO)  | Microsoft |  |
+|  MDEN | Microsoft Defender for Endpoint Ninja (MDE)  | Microsoft | ⏳ |
+|  MDIN | Microsoft Defender for Identity Ninja (MDI)  | Microsoft |  |
+|  MDON | Microsoft Defender for Office 365 Ninja (MDO)  | Microsoft |  |
+|  MSN | Microsoft Sentinel Ninja  | Microsoft | ✔️ |
 |  OSKLR | Kali Linux Revealed  | Offensive Security | ✔️ |
 |  OSMSFU | Metasploit Framework Unleashed  | Offensive Security | ✔️ |
 |  OSPWK | Penetration Testing with Kali Linux  | Offensive Security | ⏳ |
